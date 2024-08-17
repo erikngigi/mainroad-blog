@@ -1,7 +1,7 @@
 ---
 title: Resume
 description: Resume
-lead: This article helps you get started with the Mainroad theme, including installation and minimal configuration.
+lead: A digital creation of my resume.
 date: 2022-01-25T14:00:00.000Z
 authorbox: false
 sidebar: false
@@ -11,6 +11,8 @@ menu: main
 ---
 
 Click [here](https://drive.google.com/file/d/1K-Of-gZXnPJIZW1S00NaZSe5EHeAI5uJ/view?usp=sharing) to download the resume.
+
+<!--more-->
 
 # 📄 Summary
 Highly motivated and detail-oriented professional aspiring to excel as a DevOps Engineer. Dedicated to streamlining workflows, fostering seamless collaboration between development and operations teams, and ensuring error-free, efficient processes. Eager to contribute analytical skills and problem-solving abilities to drive continuous improvement and deliver optimal results in a DevOps environment.
